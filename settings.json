@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
+  "name": "Servidor online",
   "bot-account": {
-    "username": "BRUNOGOSTOSO",
+    "username": "servidoronline",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "pokelucia-hxM0.aternos.me",
     "port": 29944,
-    "version": "",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
